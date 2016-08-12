@@ -1,0 +1,14 @@
+layout_spectrum: 0.8008658431936055
+typography_spectrum: 0.49613920296542346
+color:
+  brandStrength: 0.3408778212033212
+  lightness: 0.9520822239574045
+  saturation: 0.9545171707868576
+  rhythmicContrast: 0.14122451259754598
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Kit
